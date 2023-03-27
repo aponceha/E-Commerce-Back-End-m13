@@ -3,6 +3,9 @@
 
   ## MIT License [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   ### https://opensource.org/licenses/MIT
+  
+  ## VIDEO WALKTHROUGH: 
+  ### https://drive.google.com/file/d/1G7_IQZ9Zh4aca4EMMR44rI_IG-kiAlXz/view
 
 
   ## Table of Contents
